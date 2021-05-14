@@ -1,2 +1,2 @@
 console.log('hello');
-alert('hello from git user 2');
+alert('hello from git user 1');
